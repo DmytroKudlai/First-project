@@ -1,0 +1,14 @@
+body{
+    background-color: khaki;
+}
+
+h4 {
+    text-align: center;
+    color:red;
+}
+.text {
+    text-transform: uppercase;
+}
+.text1 {
+    font-style: italic;
+}
